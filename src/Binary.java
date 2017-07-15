@@ -52,4 +52,4 @@ class Binary
 						maxOnesIndex(arr, n));	 
 	}
 }
-/* This code is contributed by Devesh Agrawal */
+
